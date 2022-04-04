@@ -1,0 +1,24 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "make": "Volvo",
+            "model": "XC40",
+            "price": 20000,
+            "fuelType": "Diesel",
+            "colour": "Grey",
+            "mieage": 55000,
+            "manual": true
+        },
+        {
+            "id": 2,
+            "make": "BMW",
+            "model": "Series 1",
+            "price": 15000,
+            "fuelType": "Petrol",
+            "colour": "White",
+            "mieage": 85000,
+            "manual": false
+        }
+    ]
+}
